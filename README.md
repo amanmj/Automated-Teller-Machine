@@ -6,8 +6,8 @@ b)  Cash Withdrawl : Cash can be withdrawn in a muliple of 50 only. Promts if ba
 c)  Admin access   : Administrator access to see all accounts, add account, delete account, manipulate records.
 
 #Steps to run the application:
-1.) If possible run the "atme.class" in netbeans.
-2.) If not available then set classpath to the jdbc driver manually.
+1.) If possible run the "atme.class" in netbeans.<br>
+2.) If not available then set classpath to the jdbc driver manually.<br>
 3.) Please change the username and password of your localhost if different from "root" and "" respectively in each of the java files where sql query has been run.
 4.) Export the database named "hpes" provided into your localhost using the GUI Tools.
 	The db "hpes" contains two tables named "db" and "atme_balance".
